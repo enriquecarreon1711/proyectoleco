@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">proyectoleco</string>
+    <string name="titulo1">TECNOLOGICO DE ESTUDIOS SUPERIORES ORIENTE DEL ESTADO DE MEXICO</string>
+    <string name="titulo2">PROYECTO</string>
+    <string name="titulo3">INGENIERIA EN SISTEMAS COMPUTACIONALES</string>
+    <string name="titulo4">ALUMNO: LUIS ENRIQUE CARREON ORTEGA</string>
+    <string name="titulo5">PROFESOR:VICTOR HUGO DE LA O MARTINEZ</string>
+    <string name="titulo6">MATERIA: INTRODUCCION A DISPOSITIVOS MOVILES</string>
+    <string name="titulo7">GRUPO:7S11</string>
+    <string name="menu">MENU</string>
+    <string name="libre">SOFTWARE LIBRE</string>
+    <string name="chromium">CHROMIUM</string>
+    <string name="libreofice">LIBRE OFFICE</string>
+    <string name="open">OPEN SUSE</string>
+    <string name="mozilla">MOZILLA THUNDERBIRD</string>
+    <string name="clamav">CLAMAV</string>
+    <string name="gimp">GIMP</string>
+    <string name="pdf">PDF CREATOR</string>
+    <string name="regresar">REGRESAR AL MENU</string>
+    <string name="caratula">CARATULA</string>
+    <string name="acerca">ACERCA DE...</string>
+    <string name="infchro">Su distribución final es plenamente usable y además puede ser modificado por cualquier usuario con suficientes conocimientos para hacerlo, y es una versión paralela del propio Chrome (de hecho, es de su código fuente de donde se nutre el popular navegador de Google). La principal dferencia es que omite determinados complementos de Google y nos libera de las ataduras de sus múltiples servicios. Se puede descargar desde www.chromium.org para Windows, OS X y Linux.</string>
+    <string name="infclam">Si necesitamos un antivirus para nuestro ordenador, también podemos recurrir a algunos de los mejores programas Open Source como ClamAV. En el mercado hay ya muchas soluciones de seguridad gratuitas, pero si queremos una de código abierto el abanico se reduce. ClamAV (o Clam AntiVirus) detecta troyanos, virus, malware y otras amenazas, y es uno de los estándares más utilizados para escanear correos electrónicos.</string>
+    <string name="infgimp">Para retocar fotos de forma avanzada no es imprescindible pasar por Photoshop, y así lo demuestra el imprescindible GIMP, uno de los mejores programas Open Source disponibles para Windows, OS X y Linux. Soporta todo tipo de formatos de imagen y destaca por su interfaz personalizable y por la enorme varidad de plug-ins y efectos que podemos utilizar junto a él.</string>
+    <string name="infofice">Dentro de los mejores programas Open Source no puede faltar LibreOffice, una de las mejores alternativas gratuitas a Microsoft Office. Desarrollado por The Document Foundation, nació como bifurcación de OpenOffice.org en 2010 y pone a nuestra disposición un procesador de texto (Writer), un editor de hojas de cálculo (Calc) y otras utilidades para presentaciones (Impress), bases de datos (Base), gráficos vectoriales (Draw) y fórmulas matemáticas (Math).</string>
+    <string name="infmoz">Mozilla Thunderbird es uno de los mejores programas Open Source para nuestras necesidades. Resulta muy sencilla de configurar y personalizar, y supone un relevo ideal para Microsoft Outlook, por ejemplo. Gracias a la navegación por pestañas, consultar distintos correos es tan cómodo como navegar por páginas web.</string>
+    <string name="infpdf">PDFCreator es una utilidad que nos permite transformar cualquier documento a PDF sin necesidad de recurrir a Adobe. Esta herramienta Open Source se instala como si de una impresora virtual se tratase, con lo que lo único que tenemos que hacer para transformar, por ejemplo, un archivo .doc en PDF es mandarlo a imprimir y seleccionar PDFCreator para generarlo. Así de fácil.</string>
+    <string name="infopen">El Proyecto openSUSE es una comunidad mundial que promueve el uso de Linux en todas partes. openSUSE crea una de las mejores distribuciones de Linux del mundo, en la que se trabaja de forma conjunta, abierta, transparente y amistosa como parte de la comunidad mundial de software libre y de código abierto. El proyecto está controlado por su comunidad y depende de las contribuciones de sus miembros, que trabajan como probadores, escritores, traductores, expertos en usabilidad, artistas y embajadores o desarrolladores.</string>
+    <string name="elaboro">ESTE PROYECTO FUE ELABORADO POR EL ESTUDIANTE LUIS ENRIQUE CARREON ORTEGA</string>
+    <string name="espero">ESPERO LO HAYAN DISFRUTADO</string>
+    <string name="paraque">ESTRE PROYECTO SE ELABORO CON LA FINALIDAD DE APRENDER MAS SOBRE LOS BOTONES, LAYAUTS, FUNCIONES Y APRENDER A DAR UN USO MEJOR A ANDROID STUDIO</string>
+</resources>
